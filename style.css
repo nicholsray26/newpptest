@@ -166,3 +166,8 @@ body {
   padding: 0;
   border: none;
 }
+.logo-row img {
+  height: 80px;
+  width: auto;
+  display: inline-block;
+}
